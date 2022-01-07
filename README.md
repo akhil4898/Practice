@@ -131,10 +131,4 @@ int main()
 
 This is so funny! :joy: 
 
----
-<!-- Highlight -->
-
-I need to highlight these ==very important words==.
-
-This is fine #654321 is to be there ##123456
 
