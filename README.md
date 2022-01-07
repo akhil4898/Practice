@@ -126,7 +126,14 @@ int main()
 * [x] Task 4
 * [ ] Task 5
 
+---
+<!-- Emoji -->
 
-<!--  -->
+This is so funny! :joy: 
+
+---
+<!-- Highlight -->
+
+This is ==very important words==
 
 
